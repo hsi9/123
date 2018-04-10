@@ -2,7 +2,7 @@ https://www.coursera.org/course/interactivepython
 
 Coursera and Rice University have offered course An Introduction to Interactive Programming in Python by professors Joe Warren, Scott Rixner, John Greiner and Stephen Wong.
 
-The course is designed to be a fun introduction of Python by teaching basic elements in list, dictionaries, conditionals, functions and loops. The mini projects will be building interactive games such as Pong, Blackjack and Asteroids.
+The course is designed to be a fun introduction of Python by teaching basic elements in list, dictionaries, conditionals, functions and loops. Then you need to finish some mini projects to complete the course by building interactive games such as Pong, Blackjack and Asteroids.
 
 Here is the weekly MiniProject template and all code are run by CodeSkulptor based on python 2.x
 
