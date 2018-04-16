@@ -10,3 +10,5 @@ Below are the weekly mini projects templates.
 Part 2
 Week 1 mini project -- Zombie Apocalypse
 http://www.codeskulptor.org/#poc_zombie_template.py
+Week 2 mini project -- Word Wrangler
+http://www.codeskulptor.org/#poc_wrangler_template.py
