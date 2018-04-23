@@ -12,3 +12,5 @@ Week 1 mini project -- Zombie Apocalypse
 http://www.codeskulptor.org/#poc_zombie_template.py
 Week 2 mini project -- Word Wrangler
 http://www.codeskulptor.org/#poc_wrangler_template.py
+Week 3 mini project -- Tic-Tac-Toe (Minimax)
+http://www.codeskulptor.org/#poc_tttmm_template.py
