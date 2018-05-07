@@ -14,3 +14,5 @@ Week 2 mini project -- Word Wrangler
 http://www.codeskulptor.org/#poc_wrangler_template.py
 Week 3 mini project -- Tic-Tac-Toe (Minimax)
 http://www.codeskulptor.org/#poc_tttmm_template.py
+Week 4 mini project -- The Fifteen Puzzle
+http://www.codeskulptor.org/#poc_fifteen_template.py
